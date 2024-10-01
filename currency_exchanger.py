@@ -4,7 +4,7 @@ import requests
 
 
 #API
-api_key = "5dc0af81e5faf20b45b9c2d2ad533c9a"
+api_key = "your_api_key"
 base_url = "http://api.exchangeratesapi.io/v1/latest"
 params = {
     "access_key": api_key
